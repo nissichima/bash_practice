@@ -1,0 +1,10 @@
+
+
+$pwd  #print working directory
+
+$ls   #list contents in current directory
+
+$mv [path/to/file] [path/to/destination]
+
+$cd [path/to/directory]
+
